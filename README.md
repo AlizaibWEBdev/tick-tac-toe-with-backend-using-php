@@ -1,4 +1,5 @@
 #Tic-Tac-Toe with Backend Using PHP
+
 This is a Tic Tac Toe game that uses HTML, CSS, JS, and PHP. The user can login, logout, sign up, and play against an AI. The game uses the Minimax algorithm to determine the AI's moves. Additionally, a dashboard is provided for each user that displays their rank, score, and profile image.
 
 How to Use

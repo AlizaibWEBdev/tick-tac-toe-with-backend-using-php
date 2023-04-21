@@ -1,13 +1,17 @@
-# tick-tac-toe-with-backend-using-php
-this is tic tac toe game with html css js and php 
+#Tic-Tac-Toe with Backend Using PHP
+This is a Tic Tac Toe game that uses HTML, CSS, JS, and PHP. The user can login, logout, sign up, and play against an AI. The game uses the Minimax algorithm to determine the AI's moves. Additionally, a dashboard is provided for each user that displays their rank, score, and profile image.
 
-user can login logout singup and play game with AI 
-for that i have used minmax algorthem also i have added dashboard for each user rank and score with profile image 
+How to Use
+Download the files from this repository.
+Update the .env file with your server details.
+Create a database and add its name to the .env file.
+Run db.php to automatically create the necessary tables in the database.
+That's it! You can now play Tic Tac Toe against the AI and view your rank, score, and profile image on the dashboard.
 
-
-#how to use 
-the use is very simple just dowlond thease file and update .env and add you server name and other detials now its done 
-yes its done you dont need to create tables just you need to create database and add that database in .env file rest of 
-work will db.php will do autometicly 
-
-please contribute in this project to make it better 
+Technologies Used
+HTML
+CSS
+JavaScript
+PHP
+Credits
+This game was created by Alizaib. Feel free to use and modify the code as you see fit.

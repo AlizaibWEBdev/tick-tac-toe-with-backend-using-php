@@ -15,3 +15,5 @@ JavaScript
 PHP
 Credits
 This game was created by Alizaib. Feel free to use and modify the code as you see fit.
+
+live url https://tictactoewithai.000webhostapp.com/
